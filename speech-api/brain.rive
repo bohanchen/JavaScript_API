@@ -1,0 +1,6 @@
+//chatbot's brain
+
+! var num = 37555
+
++ * 
+- guess a number between 0 and 99999
